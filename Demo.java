@@ -1,6 +1,4 @@
 //10.22.20
-import java.util.Arrays;
-
 public class Demo {
   public static void main (String[] args) {
     if (args.length == 0) { //checks to see if there's a parameter
