@@ -1,4 +1,5 @@
 //10.22.20
+//Hw 9 + 10
 public class Demo {
   public static void main (String[] args) {
     if (args.length == 0) { //checks to see if there's a parameter
